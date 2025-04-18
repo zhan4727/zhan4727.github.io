@@ -21,7 +21,7 @@ repository               : "zhan4727/zhan4727.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.png"
   name             : "Christina Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate student double majoring in CS Honors and Math Honors"
