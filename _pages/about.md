@@ -26,7 +26,7 @@ Experience
 
 Projects
 ======
-I'm currently working on an eLearning website for learning algorithms. This website includes Manim video lessons, written lessons, quizzes, and discussion pages. Topics from CS 251 and CS 381 are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. Users can choose to switch between light and dark mode. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
+I'm currently working on an eLearning website for learning algorithms. This website includes Manim video lessons, written lessons, quizzes, and discussion pages. Topics from CS 251 and CS 381 are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. I also embedded an AI assistant (Hailuo AI), and users can click on the MiniMax logo at the bottom right to bring up Hailuo AI Chat and start using it like ChatGPT. We support switching between light and dark mode. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
 
 Honors and Awards
 ======
