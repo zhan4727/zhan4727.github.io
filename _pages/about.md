@@ -31,10 +31,12 @@ I created an eLearning website for learning algorithms along with Evan Zimmerman
 Honors and Awards
 ======
 * Outstanding Freshman in Mathematics (2024) - Issued by Purdue University College of Science
- ![Math Award](./MA8A0336)
+  
+  ![Math Award](./MA8A0336.jpg)
 
 * ACM Undergraduate TA Award (2024) - Issued by Purdue University Department of Computer Science
-  ![CS Award](./COS-Awards24-82)
+  
+  ![CS Award](./COS-Awards24-82.jpg)
 
 Interests
 ======
