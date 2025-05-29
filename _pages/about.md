@@ -32,11 +32,11 @@ Honors and Awards
 ======
 * Outstanding Freshman in Mathematics (2024) - Issued by Purdue University College of Science
   
-  ![Math Award](./MA8A0336.jpg)
+  ![Math Award](/images/MA8A0336.jpg)
 
 * ACM Undergraduate TA Award (2024) - Issued by Purdue University Department of Computer Science
   
-  ![CS Award](./COS-Awards24-82.jpg)
+  ![CS Award](/images/COS-Awards24-82.jpg)
 
 Interests
 ======
