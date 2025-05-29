@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a sophomore undergraduate student double majoring in Computer Science Honors and Mathemathics Honors at Purdue University, planning to graduate in May 2026. In my free time, I like to make videos about mathematics, algorithms, data structures, and x86-64 assembly programming. Visit my [YouTube Channel](https://www.youtube.com/@ChristinaZhang-c4y) to watch my videos.
+I'm a junior undergraduate student double majoring in Computer Science Honors and Mathemathics Honors at Purdue University, planning to graduate in May 2026. In my free time, I like to make videos about mathematics, algorithms, data structures, and x86-64 assembly programming. Visit my [YouTube Channel](https://www.youtube.com/@ChristinaZhang-c4y) to watch my videos.
 
 Courses
 ======
@@ -26,7 +26,7 @@ Experience
 
 Projects
 ======
-I'm currently working on an eLearning website for learning algorithms. This website includes Manim video lessons, written lessons, quizzes, and discussion pages. Topics from CS 251 and CS 381 are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. I also embedded an AI assistant (Hailuo AI), and users can click on the MiniMax logo at the bottom right to bring up Hailuo AI Chat and start using it like ChatGPT. We support switching between light and dark mode. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
+I created an eLearning website for learning algorithms along with Evan Zimmerman, Anthony Wang, and Nathan Schneider. This website includes Manim video lessons, written lessons, quizzes, and discussion pages. Topics from CS 251 and CS 381 are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. I also embedded an AI assistant (Hailuo AI), and users can click on the MiniMax logo at the bottom right to bring up Hailuo AI Chat and start using it like ChatGPT. We support switching between light and dark mode. Some lessons may still be under development (since we included a lot of topics). Loading the website could take a little while since everything used for deployment was free. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
 
 Honors and Awards
 ======
