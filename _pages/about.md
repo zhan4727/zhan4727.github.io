@@ -15,6 +15,7 @@ Courses
 * CS 578 Statistical Machine Learning (Fall 2025)
 * CS 502 Compiling and Programming Systems (Fall 2025)
 * MA 530 Complex Analysis, Math PhD Qualifying Course (Fall 2024)
+* STAT 512 Applied Regression Analysis (Summer 2025)
 * CS 408 Software Testing (Spring 2025)
 * MA 440 Honors Real Analysis I (Fall 2023)
 * MA 442 Honors Real Analysis II (Spring 2024)
