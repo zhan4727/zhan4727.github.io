@@ -11,25 +11,33 @@ I'm a junior undergraduate student double majoring in Computer Science Honors an
 
 Courses
 ======
-* MA 530 Complex Analysis (Math PhD Qualifying Course)
-* CS 408 Software Testing
-* MA 442 Honors Real Analysis II
-* CS 407 Software Engineering Senior Project
-* CS 381 Introduction to the Analysis of Algorithms
-* MA 450 Honors Abstract Algebra
-* CS 354 Operating Systems
+* CS 588 Randomized Algorithms, CS PhD Qualifying Course (Fall 2025)
+* CS 578 Statistical Machine Learning (Fall 2025)
+* CS 502 Compiling and Programming Systems (Fall 2025)
+* MA 530 Complex Analysis, Math PhD Qualifying Course (Fall 2024)
+* CS 408 Software Testing (Spring 2025)
+* MA 440 Honors Real Analysis I (Fall 2023)
+* MA 442 Honors Real Analysis II (Spring 2024)
+* CS 407 Software Engineering Senior Project (Spring 2025)
+* CS 381 Introduction to the Analysis of Algorithms (Fall 2024)
+* MA 450 Honors Abstract Algebra (Fall 2024)
+* CS 354 Operating Systems (Spring 2025)
 
 Experience
 ======
-* I served as the Head Undergraduate Teaching Assistant for CS 182 Foundations of Computer Science for two semesters (Spring 2024, Spring 2025).
-* I was an Undergraduate Teaching Assistant for CS 251 Data Structures and Algorithms (Summer 2024, Fall 2024), CS 250 Computer Architecture (Summer 2024), CS 182 Foundations of Computer Science (Summer 2023, Fall 2023), and CS 180 Problem Solving and Object-Oriented Programming (Fall 2023).
+* I completed a Digital Forestry Research Internship in Summer 2025. My mentor was Purdue Computer Graphics Professor Yingjie Chen. I developed a web
+interface allowing users to upload and analyze drone footage captured under forest canopies. The website integrates a backend deep learning model to identify and extract tree data from uploaded videos. Users can view detailed information for each tree, including an annotated video that visually highlights detected trees along the drone's flight path, displaying each tree's assigned ID and estimated Diameter at Breast Height (DBH). [Click to View Project](https://va.tech.purdue.edu/DroneUnderCanopyForestSurvey/)
+* I served as the Head Undergraduate Teaching Assistant for CS 182 Foundations of Computer Science for three semesters (Spring 2024, Spring 2025, Summer 2025).
+* I was an Undergraduate Teaching Assistant for CS 252 Systems Programming (Summer 2025), CS 251 Data Structures and Algorithms (Summer 2024, Fall 2024), CS 250 Computer Architecture (Summer 2024), CS 182 Foundations of Computer Science (Summer 2023, Fall 2023, Fall 2025), and CS 180 Problem Solving and Object-Oriented Programming (Fall 2023).
 
 Projects
 ======
-I created an eLearning website for learning algorithms along with Evan Zimmerman, Anthony Wang, and Nathan Schneider. This website includes Manim video lessons, written lessons, quizzes, and discussion pages. Topics from Purdue CS 251 (Data Structures and Algorithms) and CS 381 (Introduction to the Analysis of Algorithms) are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. I also embedded an AI assistant (Hailuo AI), and users can click on the MiniMax logo at the bottom right to bring up Hailuo AI Chat and start using it like ChatGPT. We support switching between light and dark mode. Some lessons may still be under development (since we included a lot of topics). Loading the website could take a little while since everything used for deployment was free. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
+I created an eLearning website for learning algorithms along with Evan Zimmerman, Anthony Wang, and Nathan Schneider. This website includes animated video lessons, written lessons, quizzes, and discussion pages. Topics from Purdue CS 251 (Data Structures and Algorithms) and CS 381 (Introduction to the Analysis of Algorithms) are covered in detail. Students can send a request to the Admin to become a Teaching Assistant. Teaching Assistants can answer questions, endorse comments, and delete comments. I also embedded an AI assistant (Hailuo AI), and users can click on the MiniMax logo at the bottom right to bring up Hailuo AI Chat. We support switching between light and dark mode. Loading the website could take a little while since everything used for deployment was free. Check out our website: [https://boileralgorithms.netlify.app/](https://boileralgorithms.netlify.app/)
 
 Honors and Awards
 ======
+I was awarded the Bittinger Data Science Scholarship in 2025. $5,000 was awarded in total for the 2025-2026 academic year. In addition, I won two awards in 2024:
+
 * Outstanding Freshman in Mathematics (2024) - Issued by Purdue University College of Science
   
   ![Math Award](/images/MA8A0336.jpg)
@@ -38,6 +46,6 @@ Honors and Awards
   
   ![CS Award](/images/COS-Awards24-82.jpg)
 
-Interests
+Languages
 ======
-My interests include analysis, theoretical computer science, and assembly programming. I hope to pursue a PhD in Computer Science after I graduate.
+Native proficiency in English and Chinese.
