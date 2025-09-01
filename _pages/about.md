@@ -27,9 +27,9 @@ Courses
 Experience
 ======
 * I completed a Digital Forestry Research Internship in Summer 2025. My mentor was Purdue Computer Graphics Professor Yingjie Chen. I developed a web
-interface allowing users to upload and analyze drone footage captured under forest canopies. The website integrates a backend deep learning model to identify and extract tree data from uploaded videos. Users can view detailed information for each tree, including an annotated video that visually highlights detected trees along the drone's flight path, displaying each tree's assigned ID and estimated Diameter at Breast Height (DBH). [Click to View Project](https://va.tech.purdue.edu/DroneUnderCanopyForestSurvey/)
+interface allowing users to upload and analyze drone footage captured under forest canopies. The website integrates a backend deep learning model to identify and extract tree data from uploaded videos. Users can view detailed information for each tree, including an interactive tree visualization and an annotated video. The visualization dynamically displays tree ID, estimated DBH, and positional information when users hover over individual trees. Users can switch between viewing positional data in UTM (Universal Transverse Mercator) coordinates or Latitude/Longitude. The annotated video visually highlights detected trees along the drone's flight path, displaying each tree's assigned ID and estimated Diameter at Breast Height (DBH). The application also generates a downloadable CSV file summarizing the tree data, along with the annotated video. This tool offers farmers a practical solution to estimate the value of their trees conveniently using drones, without the complexity or expense associated with traditional LiDAR devices. Improved accuracy in DBH estimations through this system could significantly reduce or eliminate the need for manual tree measurements. [Click to View Project](https://va.tech.purdue.edu/DroneUnderCanopyForestSurvey/)
 * I served as the Head Undergraduate Teaching Assistant for CS 182 Foundations of Computer Science for three semesters (Spring 2024, Spring 2025, Summer 2025).
-* I was an Undergraduate Teaching Assistant for CS 252 Systems Programming (Summer 2025), CS 251 Data Structures and Algorithms (Summer 2024, Fall 2024), CS 250 Computer Architecture (Summer 2024), CS 182 Foundations of Computer Science (Summer 2023, Fall 2023, Fall 2025), and CS 180 Problem Solving and Object-Oriented Programming (Fall 2023).
+* I served as an Undergraduate Teaching Assistant for CS 252 Systems Programming, CS 251 Data Structures and Algorithms, CS 250 Computer Architecture, CS 182 Foundations of Computer Science, and CS 180 Problem Solving and Object-Oriented Programming.
 
 Projects
 ======
@@ -39,11 +39,11 @@ Honors and Awards
 ======
 I was awarded the Bittinger Data Science Scholarship in 2025. $5,000 was awarded in total for the 2025-2026 academic year. In addition, I won two awards in 2024:
 
-* Outstanding Freshman in Mathematics (2024) - Issued by Purdue University College of Science
+* Outstanding Freshman in Mathematics (awarded to one freshman Math major per year) - Issued by Purdue University College of Science
   
   ![Math Award](/images/MA8A0336.jpg)
 
-* ACM Undergraduate TA Award (2024) - Issued by Purdue University Department of Computer Science
+* ACM Undergraduate TA Award (awarded to one CS UTA in 2024) - Issued by Purdue University Department of Computer Science
   
   ![CS Award](/images/COS-Awards24-82.jpg)
 
