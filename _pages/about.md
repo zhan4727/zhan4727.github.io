@@ -11,6 +11,9 @@ I'm a junior undergraduate student double majoring in Computer Science Honors an
 
 Courses
 ======
+* CS 587 Foundations of Deep Learning (Spring 2026)
+* CS 565 Programming Languages (Spring 2026)
+* CS 536 Data Communication and Computer Networks, CS PhD Qualifying Course (Spring 2026)
 * CS 588 Randomized Algorithms, CS PhD Qualifying Course (Fall 2025)
 * CS 578 Statistical Machine Learning (Fall 2025)
 * CS 502 Compiling and Programming Systems (Fall 2025)
