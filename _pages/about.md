@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a junior undergraduate student double majoring in Computer Science Honors and Mathemathics Honors at Purdue University, planning to graduate in May 2026. In my free time, I like to make videos about mathematics, algorithms, data structures, and x86-64 assembly programming. Visit my [YouTube Channel](https://www.youtube.com/@ChristinaZhang-c4y) to watch my videos.
 
+I have deployed a new personal website [here](https://christina-zhang.netlify.app/). I will likely add updates to this new website in the future.
+
 Courses
 ======
 * CS 587 Foundations of Deep Learning (Spring 2026)
